@@ -1,0 +1,33 @@
+.main-container {
+  display: flex;
+  justify-content: space-around;
+  padding: 15px;
+  margin: 15px;
+}
+.img-style {
+  width: 150px;
+}
+.card-container {
+  border: 1px solid green;
+  width: 300px;
+  text-align: center;
+  padding: 15px;
+  margin: 15px;
+}
+.cart-container {
+  box-shadow: 4px 4px 8px gray;
+  padding: 15px;
+  margin: 15px;
+}
+.card-footer {
+  display: flex;
+  justify-content: space-between;
+}
+.cart-title {
+  display: flex;
+  justify-content: space-between;
+}
+.cart-info {
+  display: flex;
+  justify-content: space-between;
+}
